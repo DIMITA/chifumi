@@ -15,6 +15,7 @@ export default defineConfig({
           background_color: "#f69435",
           start_url: "/",
           name: "ShiFuMi",
+          display: "fullscreen",
           short_name: "SFM",
           icons: [
               {
